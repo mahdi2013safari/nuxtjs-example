@@ -16,7 +16,7 @@
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
     "mysql2": "^1.6.5",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "sequelize": "^5.8.12"
   },
   "devDependencies": {
